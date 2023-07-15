@@ -1,0 +1,9 @@
+[submodule "subscription-service"]
+	path = subscription-service
+	url = https://github.com/blast-sky/subscription-service.git
+[submodule "vacancy-service"]
+	path = vacancy-service
+	url = https://github.com/blast-sky/vacancy-service.git
+[submodule "telegram-announcer-service"]
+	path = telegram-announcer-service
+	url = https://github.com/blast-sky/telegram-announcer-service.git
